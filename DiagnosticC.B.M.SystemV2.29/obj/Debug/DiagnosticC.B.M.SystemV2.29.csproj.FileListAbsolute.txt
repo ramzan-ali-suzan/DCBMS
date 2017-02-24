@@ -1,0 +1,15 @@
+D:\dotNet\Project 01\DiagnosticCenterBillManagementV2\DiagnosticC.B.M.SystemV2.29\DiagnosticC.B.M.SystemV2.29\bin\DiagnosticC.B.M.SystemV2.29.dll.config
+D:\dotNet\Project 01\DiagnosticCenterBillManagementV2\DiagnosticC.B.M.SystemV2.29\DiagnosticC.B.M.SystemV2.29\bin\DiagnosticC.B.M.SystemV2.29.dll
+D:\dotNet\Project 01\DiagnosticCenterBillManagementV2\DiagnosticC.B.M.SystemV2.29\DiagnosticC.B.M.SystemV2.29\bin\DiagnosticC.B.M.SystemV2.29.pdb
+D:\dotNet\Project 01\DiagnosticCenterBillManagementV2\DiagnosticC.B.M.SystemV2.29\DiagnosticC.B.M.SystemV2.29\obj\Debug\DiagnosticC.B.M.SystemV2.29.csprojResolveAssemblyReference.cache
+D:\dotNet\Project 01\DiagnosticCenterBillManagementV2\DiagnosticC.B.M.SystemV2.29\DiagnosticC.B.M.SystemV2.29\obj\Debug\DiagnosticC.B.M.SystemV2.29.dll
+D:\dotNet\Project 01\DiagnosticCenterBillManagementV2\DiagnosticC.B.M.SystemV2.29\DiagnosticC.B.M.SystemV2.29\obj\Debug\DiagnosticC.B.M.SystemV2.29.pdb
+D:\dotNet\Project 01\DiagnosticCenterBillManagementV2\DiagnosticC.B.M.SystemV2.29\DiagnosticC.B.M.SystemV2.29\bin\itextsharp.dll
+D:\dotNet\Project 01\DiagnosticCenterBillManagementV2\DiagnosticC.B.M.SystemV2.29\DiagnosticC.B.M.SystemV2.29\bin\itextsharp.xml
+D:\Dot Net\Project 01\DiagnosticCenterBillManagementV2\DiagnosticC.B.M.SystemV2.29\DiagnosticC.B.M.SystemV2.29\bin\DiagnosticC.B.M.SystemV2.29.dll.config
+D:\Dot Net\Project 01\DiagnosticCenterBillManagementV2\DiagnosticC.B.M.SystemV2.29\DiagnosticC.B.M.SystemV2.29\bin\DiagnosticC.B.M.SystemV2.29.dll
+D:\Dot Net\Project 01\DiagnosticCenterBillManagementV2\DiagnosticC.B.M.SystemV2.29\DiagnosticC.B.M.SystemV2.29\bin\DiagnosticC.B.M.SystemV2.29.pdb
+D:\Dot Net\Project 01\DiagnosticCenterBillManagementV2\DiagnosticC.B.M.SystemV2.29\DiagnosticC.B.M.SystemV2.29\bin\itextsharp.xml
+D:\Dot Net\Project 01\DiagnosticCenterBillManagementV2\DiagnosticC.B.M.SystemV2.29\DiagnosticC.B.M.SystemV2.29\obj\Debug\DiagnosticC.B.M.SystemV2.29.csprojResolveAssemblyReference.cache
+D:\Dot Net\Project 01\DiagnosticCenterBillManagementV2\DiagnosticC.B.M.SystemV2.29\DiagnosticC.B.M.SystemV2.29\obj\Debug\DiagnosticC.B.M.SystemV2.29.dll
+D:\Dot Net\Project 01\DiagnosticCenterBillManagementV2\DiagnosticC.B.M.SystemV2.29\DiagnosticC.B.M.SystemV2.29\obj\Debug\DiagnosticC.B.M.SystemV2.29.pdb
